@@ -1,0 +1,10 @@
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/bin/Debug/netcoreapp2.0/hosting.deps.json
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/bin/Debug/netcoreapp2.0/hosting.runtimeconfig.json
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/bin/Debug/netcoreapp2.0/hosting.runtimeconfig.dev.json
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/bin/Debug/netcoreapp2.0/hosting.dll
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/bin/Debug/netcoreapp2.0/hosting.pdb
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/obj/Debug/netcoreapp2.0/hosting.csproj.CoreCompileInputs.cache
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/obj/Debug/netcoreapp2.0/hosting.AssemblyInfoInputs.cache
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/obj/Debug/netcoreapp2.0/hosting.AssemblyInfo.cs
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/obj/Debug/netcoreapp2.0/hosting.dll
+/Users/samuelbrehmporto/Asp.NET Core/Modulo02/hosting/obj/Debug/netcoreapp2.0/hosting.pdb

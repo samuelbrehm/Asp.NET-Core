@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C443BAF3-3E21-4C15-9E4C-C08C269E51A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Capitulo01/Controllers/InstituicaoController.cs">
+    <Files>
+      <File FileName="Capitulo01/Program.cs" Line="1" Column="1" />
+      <File FileName="Capitulo01/Startup.cs" Line="1" Column="1" />
+      <File FileName="Capitulo01/Controllers/InstituicaoController.cs" Line="43" Column="37" />
+      <File FileName="Capitulo01/Models/Instituicao.cs" Line="8" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Capitulo01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

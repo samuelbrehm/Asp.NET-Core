@@ -1,0 +1,11 @@
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/bin/Debug/netcoreapp2.0/Capitulo01.deps.json
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/bin/Debug/netcoreapp2.0/Capitulo01.runtimeconfig.json
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/bin/Debug/netcoreapp2.0/Capitulo01.runtimeconfig.dev.json
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/bin/Debug/netcoreapp2.0/Capitulo01.dll
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/bin/Debug/netcoreapp2.0/Capitulo01.pdb
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/obj/Debug/netcoreapp2.0/Capitulo01.csprojResolveAssemblyReference.cache
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/obj/Debug/netcoreapp2.0/Capitulo01.csproj.CoreCompileInputs.cache
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/obj/Debug/netcoreapp2.0/Capitulo01.AssemblyInfoInputs.cache
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/obj/Debug/netcoreapp2.0/Capitulo01.AssemblyInfo.cs
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/obj/Debug/netcoreapp2.0/Capitulo01.dll
+/Users/samuelbrehmporto/Asp.NET Core/Capitulo01/Capitulo01/obj/Debug/netcoreapp2.0/Capitulo01.pdb
