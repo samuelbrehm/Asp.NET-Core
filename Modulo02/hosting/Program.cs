@@ -1,12 +1,25 @@
 ﻿using System;
+using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
 
 namespace hosting
 {
-    class Program
+  class Program
+  {
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
+      var host = new WebHostBuilder()
+      .UseKestrel()
+      .Configure(
+          app =>
+          {
+            app.Run(context => context.Response.WriteAsync("Olá Mundo"));
+          }
+      )
+      .Build();
+
+      host.Run();
     }
+  }
 }
